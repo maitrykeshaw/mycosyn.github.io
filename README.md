@@ -1,1 +1,1 @@
-# mycosyn.github.io
+# https://buy-mycosyn.vercel.app
