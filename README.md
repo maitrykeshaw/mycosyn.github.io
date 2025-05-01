@@ -1,1 +1,1 @@
-# https://buy-mycosyn.vercel.app
+# https://buy-mycosyn.vercel.app/
