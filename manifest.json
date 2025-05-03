@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Mycosyn Pro™ (Official) Get 50% Off + Free Shipping",
+  "short_name":"Mycosyn Pro™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Mycosyn Pro is one simple way to get free from the shackles of fungus. The ingredients in this supplement begin to work and increase immunity after just days.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
